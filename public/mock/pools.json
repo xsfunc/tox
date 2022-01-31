@@ -1,0 +1,85 @@
+[
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": "$308.28m",
+    "volume24h": "$65.06m",
+    "volume7d": "$876.49m",
+    "token0": {
+      "name": "Toncoin",
+      "symbol": "TONCOIN",
+      "logoURI": "https://ton.org/download/toncoin_symbol.png"
+    },
+    "token1": {
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png"
+    }
+  },
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": "$243.38m",
+    "volume24h": "$66.01m",
+    "volume7d": "$996.53m",
+    "token0": {
+      "name": "Toncoin",
+      "symbol": "TONCOIN",
+      "logoURI": "https://ton.org/download/toncoin_symbol.png"
+    },
+    "token1": {
+      "name": "Tokenlon",
+      "symbol": "LON",
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0000000000095413afC295d19EDeb1Ad7B71c952/logo.png"
+    }
+  },
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": "$223.89m",
+    "volume24h": "$44.026m",
+    "volume7d": "$756.129m",
+    "token0": {
+      "name": "Toncoin",
+      "symbol": "TONCOIN",
+      "logoURI": "https://ton.org/download/toncoin_symbol.png"
+    },
+    "token1": {
+      "name": "AllianceBlock Token",
+      "symbol": "ALBT",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0/logo.png"
+    }
+  },
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": "$221.94m",
+    "volume24h": "$66.06m",
+    "volume7d": "$8734.49m",
+    "token0": {
+      "name": "Toncoin",
+      "symbol": "TONCOIN",
+      "logoURI": "https://ton.org/download/toncoin_symbol.png"
+    },
+    "token1": {
+      "name": "UniLend Finance Token",
+      "symbol": "UFT",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    }
+  },
+  {
+    "id": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+    "tvl": "$211.12m",
+    "volume24h": "$55.16m",
+    "volume7d": "$676.439m",
+    "token0": {
+      "name": "Toncoin",
+      "symbol": "TONCOIN",
+      "logoURI": "https://ton.org/download/toncoin_symbol.png"
+    },
+    "token1": {
+      "name": "Rai Reflex Index",
+      "symbol": "RAI",
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
+    }
+  }
+]
