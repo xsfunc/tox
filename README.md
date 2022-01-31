@@ -22,4 +22,13 @@ Planned but didn't have time to implement:
 I only found out about the contest a week ago, so did not have time to implement a lot of things.
 if you like my prototype I can continue.
 
-🇷🇺 Telegram: xsfunc
+
+
+## How to install
+```
+yarn
+yarn build
+yarn start
+```
+## Contacts
+Telegram: xsfunc (Russian speaker)
